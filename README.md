@@ -1,2 +1,2 @@
 # ProjectChickenShop
-A project chicken shop
+A project chicken shop to predict chickens sold
